@@ -1,0 +1,17 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.16
+Packs:
+	double slabs
+	rotten flesh to leather
+	charcoal to black dye
+	coal to black dye
+	universal dyeing
+	blackstone cobblestone
+	powder to glass
+	craftable horse armor
+	craftable notch apples
+	craftable coral blocks 2x2
+	craftable coral blocks 3x3
+	unpackable ice
+	unpackable nether wart
+	unpackable wool
